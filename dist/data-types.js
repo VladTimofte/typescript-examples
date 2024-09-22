@@ -36,4 +36,6 @@ console.log(`Symbol: ${user[idSymbol]}`);
 function throwError(message) {
     throw new Error(message);
 }
-throwError('Aceasta este o Eroare!');
+// throwError('Aceasta este o Eroare!')
+const unObiect = {};
+console.log(`Obiect: ${unObiect}`);

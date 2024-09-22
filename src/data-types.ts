@@ -49,3 +49,7 @@ function throwError(message: string): never {
 }
 
 // throwError('Aceasta este o Eroare!')
+
+
+const unObiect: object = {}
+console.log(`Obiect: ${unObiect}`)
